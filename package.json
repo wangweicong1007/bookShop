@@ -1,0 +1,23 @@
+{
+  "name": "bookshop",
+  "version": "1.0.0",
+  "description": "这是一个自动化构建gitbook 的demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangweicong1007/bookshop.git"
+  },
+  "keywords": [],
+  "author": "wangweicong1007",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangweicong1007/bookshop/issues"
+  },
+  "homepage": "https://github.com/wangweicong1007/bookshop#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
